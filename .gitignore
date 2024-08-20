@@ -23,4 +23,4 @@ go.work.sum
 
 # env file
 .env
-protoc-25.1-linux-x86_64.zip
+.idea
